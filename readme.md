@@ -1,4 +1,4 @@
-## Trying to solve Project Euler problems in my free time
+## Trying to solve Project Euler problems using Python in my free time
 
 > What is Project Euler?
 > Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. Although mathematics will help
@@ -6,3 +6,5 @@
 >
 >The motivation for starting Project Euler, and its continuation, is to provide a platform for the inquiring mind to delve into unfamiliar areas and learn new concepts in a fun 
 > and recreational context.
+
+[Project Euler](https://projecteuler.net/)
